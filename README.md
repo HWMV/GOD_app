@@ -1,15 +1,7 @@
-
-# Result 
-
-<img src="./images/main_image.jpeg" width="300" height="500"/>
-<img src="./images/one_screen.jpeg" width="300" height="500"/>
-<img src="./images/console.jpeg" width="500" height="200"/>
-
----
 # Go Dance Up App 프로젝트
 
 # 1. Process
-<img src="./images/godanceup.png" width="300" height="500"/>
+<img src="./images/godanceup.png" width="400" height="500"/>
 
 ---
 
@@ -49,9 +41,9 @@
 
 # 3. Test
 * docs로 서버에서 잘 처리하는 지 확인 (사진 업로드, 데이터 전달, 평가 결과 출력)
-<img src="./images/1.png" width="300" height="500"/>
-<img src="./images/2.png" width="300" height="500"/>
-<img src="./images/f1.png" width="300" height="500"/>
+<img src="./images/1.png" width="350" height="500"/>
+<img src="./images/2.png" width="350" height="500"/>
+<img src="./images/f1.png" width="350" height="500"/>
 
 ---
 
@@ -60,7 +52,7 @@
 * 완료 : 현재 위 내용까지 진행 하였습니다
 
 * 진행중 : 원본 영상에서 윤곽선 추출 완료, 윤곽선 데이터 추출해서 평가 화면에 대입 후 사용자에게 기준 제시
-<img src="./images/canny.png" width="300" height="500"/>
+<img src="./images/canny.png" width="350" height="500"/>
 
 * 진행중 : StyleGAN 모델링 (사용자 영상에 동양화 필터링 기능 추가 예정 : 사용자의 모습을 노출하고 싶지 않을 때 사용, 현재 애니메이션 Style Transfer 결과 확인
 (영상 프레임 분할 >> Style transfer >> 영상 프레임 합성) : fps 안 맞는 issue 발생
