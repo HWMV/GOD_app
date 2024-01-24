@@ -43,7 +43,7 @@
 * docs로 서버에서 잘 처리하는 지 확인 (사진 업로드, 데이터 전달, 평가 결과 출력)
 <img src="./images/1.png" width="350" height="500"/>
 <img src="./images/2.png" width="350" height="500"/>
-<img src="./images/f1.png" width="350" height="500"/>
+<img src="./images/f2.png" width="350" height="500"/>
 
 ---
 
