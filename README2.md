@@ -1,5 +1,6 @@
 # Go Dance Up App 프로젝트
 # Human Part Segmentation
+# Exploration_3 참고
 
 # 1. 아이디어
 
