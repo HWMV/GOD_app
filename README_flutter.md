@@ -16,34 +16,40 @@
 * 위에 이미지 처럼 분할 된 영역에 준비한 Parts 별 캐릭터 이미지 대입 예정
 
 ---
+---
 
 # 2. 진행 상황
 
 홈 화면, 로그인 화면, 현재 업로드 화면, 평가 점수 출력 화면 (로그인 화면 진행중)
 
 <디바이스 화면>
+
 [메인 > Login > main > upload > score]
+
+---
+
 <img src="./images/main.png" width="250" height="500"/>
 <img src="./images/login.png" width="250" height="500"/>
 <img src="./images/upload.png" width="250" height="500"/>
 <img src="./images/file.png" width="250" height="500"/>
 <img src="./images/score.png" width="250" height="500"/>
 
+
+---
 ---
 
 # 3. 진행 예정
 
-* Train.py 작성
-
-* dataload.py & person_extraction.py : Pascal voc 2010 mat 형식의 데이터 선별 및 전처리
-
-* 훈련 및 검증
 
 ---
+---
 
-# 4. 예상되는 변수
+# 4. 예상되는 변수(질문)
 
-* 영상에 실시간 추적 및 대입 가능할지?
-* 옷에 가려지는 부위 자세하게 Segmentatino 할지?
-* 분할 된 mask 들의 랜드마크와 맞는 범위 설정 가능할지?
+1. 디바이스 마다 화면 비율이 다른데 각 기기에 UI 크기 적용은 어떻게 맞추는지?
+2. 다른 하드웨어와 화면 공유를 할 수 있는지? (학습모드에서 Tv, Com, Labtop)
+3. 모델들 탑재하는 부분을 자세히 알고 싶습니다 (MediaPipe 평가기 엔드포인트로 탑재)
+
+* 1차 멘토링 전까지 추가 질문들 정리 하겠습니다!
+
 
